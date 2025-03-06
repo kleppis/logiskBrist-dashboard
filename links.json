@@ -1,7 +1,8 @@
 [
   {
     "name": "Next.js Docs",
-    "url": "https://nextjs.org/docs"
+    "url": "https://nextjs.org/docs",
+    "tags": ["Nettside"]
   },
   {
     "name": "Github",
@@ -9,14 +10,17 @@
   },
   {
     "name": "LogiskBrist",
-    "url": "https://www.logiskbrist.no/"
+    "url": "https://www.logiskbrist.no/",
+    "tags": ["Nettside", "Utlegg", "Logisk"]
   },
   {
     "name": "LogiskBrist",
-    "url": "https://www.logiskbrist.no/"
+    "url": "https://www.logiskbrist.no/",
+    "tags": ["Nettside", "Utlegg", "Logisk"]
   },
   {
     "name": "Utleggsappen",
-    "url": "https://www.utleggsappen.no/"
+    "url": "https://www.utleggsappen.no/",
+    "tags": ["Nettside", "Utlegg", "Logisk", "App"]
   }
 ]
