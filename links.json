@@ -22,5 +22,55 @@
     "name": "Utleggsappen",
     "url": "https://www.utleggsappen.no/",
     "tags": ["Nettside", "Utlegg", "Logisk", "App"]
+  },
+  {
+    "name": "Sandefjords blad",
+    "url": "https://www.sb.no/",
+    "tags": ["Nettside", "Nyheter"]
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com/",
+    "tags": ["Nettside", "Programmering", "Hjelp"]
+  },
+  {
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/",
+    "tags": ["Nettside", "Dokumentasjon", "Web"]
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com/",
+    "tags": ["Nettside", "Forum", "Diskusjon"]
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "tags": ["Nettside", "Teknologi", "Nyheter"]
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/",
+    "tags": ["Nettside", "Design", "UI", "UX"]
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com/",
+    "tags": ["Nettside", "Søk"]
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/",
+    "tags": ["Nettside", "Video", "Læring"]
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://www.openai.com/",
+    "tags": ["Nettside", "AI", "Teknologi"]
+  },
+  {
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com/",
+    "tags": ["Nettside", "Data Science", "Maskinlæring"]
   }
 ]
